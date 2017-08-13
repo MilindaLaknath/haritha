@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Bin</string>
+    <string name="title_activity_maps">Smart bin</string>
+    <string name="title_activity_collector_center">Map</string>
+</resources>
